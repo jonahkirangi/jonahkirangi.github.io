@@ -158,6 +158,12 @@ hr.small {
     -o-background-size: cover;
 }
 
+.arrow {
+    position: absolute;
+    bottom: 0;
+    color: #000;
+}
+
 /* About */
 
 .about {
