@@ -23,6 +23,7 @@ a {
   font-weight: 900;
 }
 
+a:focus,
 a:hover {
   text-decoration: none;
   color: #333;
